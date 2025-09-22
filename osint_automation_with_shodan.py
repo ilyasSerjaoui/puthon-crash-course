@@ -1,5 +1,5 @@
 import shodan
-SHODAN_API_KEY = "LGSZT7VDzl39EG0DlqET6xAwjY58pnyB"
+SHODAN_API_KEY = "Your API Key"
 api = shodan.Shodan(SHODAN_API_KEY)
 words = open("bug-bounty-wordlist.txt", "r")
 django_debug_list = open("django-debug-list.txt","w")

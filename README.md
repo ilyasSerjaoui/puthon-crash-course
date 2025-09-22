@@ -1,1 +1,1 @@
-# puthon-crash-course
+# Python-Automation-for-bug-bounty-hunters

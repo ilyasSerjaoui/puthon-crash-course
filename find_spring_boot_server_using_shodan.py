@@ -1,5 +1,5 @@
 import shodan
-SHODAN_API_KEY = "LGSZT7VDzl39EG0DlqET6xAwjY58pnyB"
+SHODAN_API_KEY = "Your API KEY"
 api = shodan.Shodan(SHODAN_API_KEY)
 out_file = open("sping-boot-server.txt", "a")
 query = "http.favicon.hash:116323821"
